@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Task;
+
 public class Todos {
     private Task[] tasks = new Task[0]; // <- тут будут все задачи
 
